@@ -10,5 +10,6 @@ public class Class1
     Scanner s=new Scanner(System.in); // has a relationshp
     int a=s.nextInt();
     System.out.println("value of a "+a);
+	System.out.println("changes done by dc");
 	}
 }
